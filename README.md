@@ -30,5 +30,6 @@ Alternatively some scripts have been included to streamline this process, these 
 
 
 ## Output 
-Screenshot during run
+  Screenshot during run
+
 ![](https://github.com/ermadhukar/SDCND_T2_P3_Kidnapped_Vehicle_Project/blob/master/T2P3_PF.png)
